@@ -1,8 +1,3 @@
-
-int n1=3;
-int n2=23;
-int n3=1456;
-int n4=-7;
 int Max(int a, int b)
 {
   if(a >= b)
@@ -30,7 +25,7 @@ int Min(int a, int b)
 
 
 
-//Важный блок
+//пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
 int Max4(int a, int b, int c, int d)
 {
   int M1, M2, M;
@@ -48,7 +43,7 @@ int Min4(int a, int b, int c, int d)
   m = Min(m1, m2);
   return m;
 }
-//1 задача
+//1 пїЅпїЅпїЅпїЅпїЅпїЅ
 int PredMax(int a, int b, int c, int d)
 {
   int M=Max4(a,b,c,d);
